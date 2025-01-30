@@ -1,4 +1,3 @@
-```markdown
 # Cloud Run Deployment Task
 
 This document outlines the steps required to deploy a Flask application to Google Cloud Run. It assumes you have a basic understanding of GCP and Docker.
@@ -98,4 +97,3 @@ After the deployment is complete, you can adjust the service's scaling and concu
 ## Conclusion
 
 This guide provides a flexible outline for deploying your Flask application to Google Cloud Run. Remember to replace the placeholder values with your specific project details and adjust the flag values to suit your application's requirements.
-```
